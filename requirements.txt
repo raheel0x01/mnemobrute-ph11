@@ -1,0 +1,3 @@
+mnemonic
+bip32utils
+bitcoincli
